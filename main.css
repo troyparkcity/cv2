@@ -1,0 +1,13 @@
+nav {
+  display: inline-flex;
+}
+
+a {
+  display: block;
+  background-color: inherit;
+  align-content: center;
+}
+
+body {
+  background-color: inherit ;
+}
