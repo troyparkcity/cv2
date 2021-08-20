@@ -8,6 +8,16 @@ a {
   align-content: center;
 }
 
+html {
+  background-color: #6fbd91;
+}
+
 body {
-  background-color: inherit ;
+  display: block;
+  align-items: center;
+  text-align: center;
+
+}
+img {
+  border-radius: 100%;
 }
